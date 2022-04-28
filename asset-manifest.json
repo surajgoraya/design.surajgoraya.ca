@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/design.surajgoraya.ca/static/css/main.453ca5ec.css",
+    "main.js": "/design.surajgoraya.ca/static/js/main.ee199c8b.js",
+    "index.html": "/design.surajgoraya.ca/index.html",
+    "main.453ca5ec.css.map": "/design.surajgoraya.ca/static/css/main.453ca5ec.css.map",
+    "main.ee199c8b.js.map": "/design.surajgoraya.ca/static/js/main.ee199c8b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.453ca5ec.css",
+    "static/js/main.ee199c8b.js"
+  ]
+}
